@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+numpy
+pandas
+prophet
+gunicorn
+scikit-learn
+keras
+tensorflow
+xgboost
